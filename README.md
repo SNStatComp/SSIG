@@ -16,10 +16,7 @@ One of the advantages of statistical scraping is that if applied on the unit lev
 We note here that bulk scraping certainly has its value in certain statistical use cases. Even stronger, in cases where the statistical population yet has to be discovered it may be the only option.
 However, we think that in cases where statistical scraping can be applied it may complement or in some cases replace bulk scraping methods.   
 
-A More theoretical definition is:
-
-Formally we define:
-*Statistical (or selective) scraping is the use of online data starting from a-priori information in the respective statistical domain keeping a clear relation with the statistical context*
+A More theoretical definition is: *Statistical (or selective) scraping is the use of online data starting from a-priori information in the respective statistical domain keeping a clear relation with the statistical context*
 
 For a more detailed explanation we refer to this paper from the Q2024 conference:
 *Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril*
