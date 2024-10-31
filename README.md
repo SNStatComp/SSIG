@@ -23,6 +23,10 @@ Formally we define:
 
 For a more detailed explanation we refer to this paper from the Q2024 conference [[informed plough begets finer crops (PDF)](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
 
+Reference:
+Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril
+[pdf](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
+
 ## What is this interest group about?
 
 Statistical scraping is for now just a concept. An idea that we think might be useful.
@@ -30,12 +34,10 @@ We are about to start implementing this concept and this interst group is create
 It is created by he research groups of Statistics Austria and Statistics Netherlands and will also be used to communicate about meetings of this group.
 
 More details will be communicated here later.
-Please follow this page if you want to stay informed.
-More information, suggestions, additions, questions: send an e-mail to `olav dot tenbosch at gmail dot com`
+Please follow this page if you want to stay informed
 
-Reference:
-Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril
-[pdf](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
+Questions, suggestions, additions: send an e-mail to `olav dot tenbosch at gmail dot com`
+
 
 
 ## License and citation
