@@ -21,10 +21,8 @@ A More theoretical definition is:
 Formally we define:
 *Statistical (or selective) scraping is the use of online data starting from a-priori information in the respective statistical domain keeping a clear relation with the statistical context*
 
-For a more detailed explanation we refer to this paper from the Q2024 conference [[informed plough begets finer crops (PDF)](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
-
-Reference:
-Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril
+For a more detailed explanation we refer to this paper from the Q2024 conference:
+*Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril*
 [pdf](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
 
 ## What is this interest group about?
