@@ -16,15 +16,17 @@ One of the advantages of statistical scraping is that if applied on the unit lev
 We note here that bulk scraping certainly has its value in certain statistical use cases. Even stronger, in cases where the statistical population yet has to be discovered it may be the only option.
 However, we think that in cases where statistical scraping can be applied it may complement or in some cases replace bulk scraping methods.   
 
-For a more detailed explanation we refer to this paper from the Q2024 conference:
-*Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril*
-[pdf](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
+For a more detailed explanation we refer to the following papers/presentations/reports:
+
+ - Q2024 conference: *Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril* [pdf](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
+ - WIN2025 conference: *Selective scraping, sampling and other methods to minimize known causes of biases of web data* [pdf](https://win2025.stat.gov.pl/Content/Presentations/VI.1.%20Alexander%20Kowarik.pdf)
+ - WIN-WP4-methodology report: *Methodology report* [pdf](https://github.com/WebIntelligenceNetwork/Deliverables/blob/119f7ca340f4438035201c82d20cec700df9a926/WP4/D4_6.pdf)
 
 ## What is this interest group about?
 
 Statistical scraping is for now just a concept. An idea that we think might be useful.
 We are about to start implementing and testing this concept and this interest group is created to share experiences, best practices and software and tools implementing statistical scraping in official statistics.
-It is created by he research groups of Statistics Austria and Statistics Netherlands and will also be used to communicate about meetings of this group.
+It is created by the research groups of Statistics Austria and Statistics Netherlands and will also be used to communicate about meetings of this group.
 
 More details will be communicated here later.
 Please follow this page if you want to stay informed
