@@ -1,4 +1,4 @@
-<img src="logo_SSIG.svg" alt="Logo of SSIG"/>
+<img src="logo_SSIG.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
 This the home of the Statistical (Selective) Scraping Interest Group (SSIG) for methodologically sound use of web data in official statistics.
 
