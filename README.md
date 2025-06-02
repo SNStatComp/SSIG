@@ -1,3 +1,9 @@
+<img src="logo_SSIG.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
+
+This the home of the Statistical (Selective) Scraping Interest Group (SSIG) for methodologically sound use of web data in official statistics.
+
+**Save-the-date: First Meeting of the Statistical Scraping Interest Group 16-17 September 2025 in Vienna at Statistics Austria**
+=======
 # SSIG: Statistical Scraping Interest Group
 This the home of the Statistical Scraping Interest Group for methodologically sound use of web data in official statistics
 
