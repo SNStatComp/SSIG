@@ -1,4 +1,4 @@
-# SSIG
+# SSIG: Statistical Scraping Interest Group
 This the home of the Statistical Scraping Interest Group for methodologically sound use of web data in official statistics
 
 ## What is Statistical Scraping?
