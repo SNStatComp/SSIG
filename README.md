@@ -1,19 +1,19 @@
 <img src="logo_SSIG.svg" alt="Logo of SSIG"/>
 
-This the home of the Selective (Statistical) Scraping Interest Group (SSIG) for methodologically sound use of web data in official statistics.
+This the home of the Statistical (Selective) Scraping Interest Group (SSIG) for methodologically sound use of web data in official statistics.
 
-**Save-the-date: First Meeting of the Selective Scraping Interest Group 16-17 September 2025 in Vienna at Statistics Austria**
+**Save-the-date: First Meeting of the Statistical Scraping Interest Group 16-17 September 2025 in Vienna at Statistics Austria**
 
-## What is Selective Scraping?
+## What is Statistical Scraping?
 
-Roughly stated: selected scraping is the use of web data in such way that the relationship with the statistical context is known.
-It often invloves search operations on the web. It is sometimes called statistical scraping.
+Roughly stated: statistical scraping is the use of web data in such way that the relationship with the statistical context is known.
+It often invloves search operations on the web. It is sometimes called selective scraping.
 
 For example:
-- an automated search for the price of a well-defined product on the internet is selective scraping
-- an automated search for the most likely URL for an enterprise of a known statistical population is selective scraping
-- interpretation of textual or structured data on an internet site that is known to belong to a statistical unit (organisation) of a known statistical population is selective scraping
-- collecting all prices and product characteristics of all products sold by a specific web portal (bulk scraping) is *not* statistical scraping (although this can be very useful in certain cases)
+- an automated search for the price of a well-defined product on the internet is statistical scraping
+- an automated search for the most likely URL for an enterprise of a known statistical population is statistical scraping
+- interpretation of textual or structured data on an internet site that is known to belong to a statistical unit (organisation) of a known statistical population is statistical scraping
+- collecting all prices and product characteristics of all products sold by a specific web portal (bulk scraping) is **not** statistical scraping (although this can be very useful in certain cases)
 
 One of the advantages of statistical scraping is that if applied on the unit level, well-defined and proven survey methodology quality indicators can be calculated.
 We note here that bulk scraping certainly has its value in certain statistical use cases. Even stronger, in cases where the statistical population yet has to be discovered it may be the only option.
@@ -27,7 +27,7 @@ For a more detailed explanation we refer to the following papers/presentations/r
 
 ## What is this interest group about?
 
-Selective scraping is for now just a concept. An idea that we think might be useful.
+Statistical scraping is for now just a concept. An idea that we think might be useful.
 We are about to start implementing and testing this concept and this interest group is created to share experiences, best practices and software and tools implementing statistical scraping in official statistics.
 It is created by the research groups of Statistics Austria and Statistics Netherlands and will also be used to communicate about meetings of this group.
 
