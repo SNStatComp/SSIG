@@ -1,4 +1,4 @@
-<img src="logo_SSIG.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
+<img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
 **Save-the-date: First Meeting of the Statistical Scraping Interest Group 16-17 September 2025 in Vienna at Statistics Austria**
 =======
