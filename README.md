@@ -1,7 +1,6 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-**Save-the-date:
-- First SSIG Meeting 16-17 September 2025 in Vienna at Statistics Austria**
+***Save-the-date: First SSIG Meeting 16-17 September 2025 in Vienna at Statistics Austria*** 
 =======
 # SSIG: Statistical Scraping Interest Group
 This the home of the Statistical Scraping Interest Group for methodologically sound use of web data in official statistics
