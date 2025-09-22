@@ -1,13 +1,8 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***Join us for the First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria*** 
+***First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria*** 
 
-Starts: 16 September at 9:30 \
-Ends: 17 September at 13:00
-
-Registration is now open: https://ssig1.sciencesconf.org/registration?lang=en
-
-Would you like to present your work? You’re welcome to submit a short abstract via the same link. The submission process is simple — all you need is a title and a brief description of your topic. 
+Presentations available [here](/meetings/SSIG1)
 
 =======
 # SSIG: Statistical Scraping Interest Group
