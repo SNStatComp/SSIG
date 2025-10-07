@@ -1,8 +1,11 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria*** 
+***Second SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands***  
+Preliminary dates, please reserve in your agenda!
 
+***First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
 Presentations available [here](/meetings/SSIG1)
+
 
 =======
 # SSIG: Statistical Scraping Interest Group
