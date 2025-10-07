@@ -28,6 +28,7 @@ For a more detailed explanation we refer to the following papers/presentations/r
  - Q2024 conference: *Statistical scraping: informed plough begets finer crops, Q conference 2024, Estoril* [pdf](https://www.researchgate.net/publication/380532685_Statistical_scraping_informed_plough_begets_finer_crops)
  - WIN2025 conference: *Selective scraping, sampling and other methods to minimize known causes of biases of web data* [pdf](https://win2025.stat.gov.pl/Content/Presentations/VI.1.%20Alexander%20Kowarik.pdf)
  - WIN-WP4-methodology report: *Methodology report* [pdf](https://github.com/WebIntelligenceNetwork/Deliverables/blob/119f7ca340f4438035201c82d20cec700df9a926/WP4/D4_6.pdf)
+ - WIN-WP3-UC5-final_deliverable: *Business Register Enhancement* [pdf](https://github.com/WebIntelligenceNetwork/Deliverables/blob/main/WP3/D3_11_WP3_UC5.pdf)
 
 ## What is this interest group about?
 
