@@ -1,7 +1,14 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***Second SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands***  
-Preliminary dates, please reserve in your agenda!
+***Join us for the Second SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
+
+Starts: 15 September at 9:30 \
+Ends: 16 September at 13:00
+
+Registration is now open: https://ssig2.sciencesconf.org/registration?lang=en
+
+Would you like to present your work? You’re welcome to submit a short abstract via the same link. The submission process is simple — all you need is a title and a brief description of your topic.
+
 
 ***First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
 Presentations and [report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) available [here](/meetings/SSIG1)
