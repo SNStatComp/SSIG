@@ -2,8 +2,8 @@
 
 ***Join us for the Second SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
 
-Starts: 15 September at 9:30 \
-Ends: 16 September at 13:00
+Starts: 15 April at 9:30 \
+Ends: 16 April at 13:00
 
 Registration is now open: https://ssig2.sciencesconf.org/registration?lang=en
 
