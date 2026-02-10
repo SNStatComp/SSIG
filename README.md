@@ -9,7 +9,8 @@ Registration is now open: https://ssig2.sciencesconf.org/registration?lang=en
 
 Would you like to present your work? You’re welcome to submit a short abstract via the same link. The submission process is simple — all you need is a title and a brief description of your topic.
 
-How to get there, hotel suggestion and other information: [this pdf](/meetings/SSIG1)
+How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG120260210_Information_note_CBS.pdf)
+
 
 
 ***First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
