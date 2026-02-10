@@ -9,7 +9,7 @@ Registration is now open: https://ssig2.sciencesconf.org/registration?lang=en
 
 Would you like to present your work? You’re welcome to submit a short abstract via the same link. The submission process is simple — all you need is a title and a brief description of your topic.
 
-How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG2/120260210_Information_note_CBS.pdf)
+How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG2/20260210_Information_note_CBS.pdf)
 
 
 
