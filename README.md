@@ -5,6 +5,12 @@
 Starts: 15 April at 9:30 \
 Ends: 16 April at 13:00
 
+This time with a focus on the [Open Web Search Project](https://openwebsearch.eu/) (OWS) / [Open Web Index](https://openwebsearch.eu/open-webindex/) (OWI) with respect to official statistics. 
+
+- April 15th 10:00: Guest speaker OWS: tbd
+- April 16th 10:00: Guest speaker OWI: [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
+
+
 Registration is now open: https://ssig2.sciencesconf.org/registration?lang=en
 
 Would you like to present your work? You’re welcome to submit a short abstract via the same link. The submission process is simple — all you need is a title and a brief description of your topic.
