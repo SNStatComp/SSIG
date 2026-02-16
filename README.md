@@ -1,11 +1,11 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***Join us for the Second SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
+***Join us for the 2nd SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
 
 Starts: 15 April at 9:30 \
 Ends: 16 April at 13:00
 
-This time with a focus on the [Open Web Search Project](https://openwebsearch.eu/) (OWS) / [Open Web Index](https://openwebsearch.eu/open-webindex/) (OWI) with respect to official statistics. 
+SSIG2 has a focus on the [Open Web Search Project](https://openwebsearch.eu/) (OWS) / [Open Web Index](https://openwebsearch.eu/open-webindex/) (OWI) and official statistics. 
 
 - April 15th 10:00: Guest speaker OWS: tbd
 - April 16th 10:00: Guest speaker OWI: [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
@@ -18,8 +18,8 @@ Would you like to present your work? You’re welcome to submit a short abstract
 How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG2/20260210_Information_note_CBS.pdf)
 
 
-
-***First SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
+=======\
+***Previous SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
 Presentations and [report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) available [here](/meetings/SSIG2/20260210_Information_note_CBS_The_Hague.pdf)
 
 
