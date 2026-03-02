@@ -7,7 +7,7 @@ Ends: 16 April at 13:00
 
 SSIG2 has a focus on the [Open Web Search Project](https://openwebsearch.eu/) (OWS) / [Open Web Index](https://openwebsearch.eu/open-webindex/) (OWI) and official statistics. 
 
-- April 15th 10:00: Guest speaker OWS: tbd
+- April 15th 10:00: Keynote Open Web Search project (online): [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau)
 - April 16th 10:00: Guest speaker OWI: [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
 
 
