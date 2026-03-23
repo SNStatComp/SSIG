@@ -54,7 +54,7 @@ version 20260323
 11:15 - 12:15 Presentations:
 - \<Title coming\>\
 *Johanna Bolli-Kemper, Univ. of Zurich, CH*
-- \<Title coming\>\
+- From news feeds to signals: Ongoing research on Complementing business-cycle surveys with text indicators\
 *Michael Reusens, National Bank of Belgium, BE*
 
 12:15-12:45 Discussion, feedback, next meeting, closing
