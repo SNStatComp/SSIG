@@ -1,5 +1,5 @@
 ## Agenda SSIG2 meeting (provisional)
-version 20260323
+version 20260324
 
 **15 April at 9:30**
 
@@ -32,7 +32,7 @@ version 20260323
 *Leonardo Castro Gonzalez, Univ. of Bristol, UK*
 - Mapping the Italian Third Sector: Insights from Web-augmented Administrative Data\
 *Carlo Bottai, Univ. of Milano-Bicocca, IT*
-- \<Title coming\>\
+- How representative are queries of information retrieval test collections? (and how to use the web to collect queries and query frequencies for a certain market)\
 *Djoerd Hiemstra, Radboud University, NL*
 
 16:30-17:00 Discussion, closing first day (all)
