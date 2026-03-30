@@ -2,8 +2,8 @@
 version 20260324
 
 **15 April at 9:30**
-
-9:30 - 10:00 Welcome, SSIG in brief, who is here\
+9:00 - 9:30 Registration open 
+9:30 - 10:00 Start, welcome, SSIG in brief, who is here\
 *Olav ten Bosch, Statistics Netherlands & Alex Kowarik, Statistics Austria*
 
 10:00 – 11:00 The Open Web Search project (remote)\
@@ -41,7 +41,7 @@ version 20260324
 
 
 **16 April at 9:30**
-
+9:00 - 9:30 Registration open
 9:30 - 10:00 Presentation:
 - A Personal Identifying Information (PII) redactor service in the Web Intelligence Hub (WIH)\
 *Luca Gramalia, Eurostat*
