@@ -1,5 +1,5 @@
 ## Agenda SSIG2 meeting (provisional)
-version 20260324
+version 20260413
 
 **15 April at 9:30**
 
@@ -38,7 +38,9 @@ version 20260324
 
 16:30-17:00 Discussion, closing first day (all)
 
-18:30 Social Dinner (own expenses)
+18:30 Social Dinner (own expenses)\
+Restaurant Luden, The Hague, https://www.ludendenhaag.nl/en/home
+Directions: https://maps.app.goo.gl/SpdUUqW4HF6ogdcA6
 
 
 **16 April at 9:30**
