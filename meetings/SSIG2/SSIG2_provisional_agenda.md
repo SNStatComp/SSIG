@@ -1,4 +1,4 @@
-## Agenda SSIG2 meeting (provisional)
+## Agenda SSIG2 meeting
 version 20260413
 
 **15 April at 9:30**
