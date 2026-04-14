@@ -1,5 +1,5 @@
 ## Agenda SSIG2 meeting
-version 20260413
+version 20260414
 
 **15 April at 9:30**
 
@@ -56,7 +56,7 @@ Directions: https://maps.app.goo.gl/SpdUUqW4HF6ogdcA6
 11:00 – 11:15 Coffee Break
 
 11:15 - 12:15 Presentations:
-- \<Title coming\>\
+- From Job Postings to Vacancies: Addressing Non-Representativeness in Job Board Data\
 *Johanna Bolli-Kemper, Univ. of Zurich, CH*
 - From news feeds to signals: Ongoing research on Complementing business-cycle surveys with text indicators\
 *Michael Reusens, National Bank of Belgium, BE*
