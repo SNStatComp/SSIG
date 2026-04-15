@@ -11,8 +11,6 @@ SSIG2 has a focus on the [Open Web Search Project](https://openwebsearch.eu/) (O
 
 [Full Agenda](/meetings/SSIG2/SSIG2_provisional_agenda.md)
 
-Registration is still open: https://ssig2.sciencesconf.org/registration?lang=en
-
 How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG2/20260210_Information_note_CBS.pdf)
 
 
