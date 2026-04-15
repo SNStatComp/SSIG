@@ -17,7 +17,7 @@ How to get there, hotel suggestion and other information: [infomation note Stati
 \
 =======\
 ***Previous SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
-Presentations and [report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) available [here](/meetings/SSIG2)
+Presentations and [report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) available [here](/meetings/SSIG1)
 
 
 =======
