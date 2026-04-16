@@ -1,5 +1,5 @@
 ## Agenda SSIG2 meeting
-version 20260414
+version 20260416
 
 **15 April at 9:30**
 
@@ -8,7 +8,7 @@ version 20260414
 *Olav ten Bosch, Statistics Netherlands & Alex Kowarik, Statistics Austria*
 
 10:00 – 11:00 The Open Web Search project (remote)\
-*Michael Granitzer, Univ. of Passau, AT*
+*Michael Granitzer, Univ. of Passau, AT* [online slides](https://aaire.eu/slides/open-web-search/ssig-2026/)
 
 11:00 – 11:30 Coffee Break
 
