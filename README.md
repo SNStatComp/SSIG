@@ -9,7 +9,7 @@ SSIG2 has a focus on the [Open Web Search Project](https://openwebsearch.eu/) (O
 - April 15th 10:00: Keynote Open Web Search project (remote): [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau)
 - April 16th 10:00: Guest speaker OWI: [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
 
-[Full Agenda](/meetings/SSIG2/SSIG2_provisional_agenda.md)
+[Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md)
 
 How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG2/20260210_Information_note_CBS.pdf)
 
