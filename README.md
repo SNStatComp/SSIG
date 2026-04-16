@@ -1,18 +1,18 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***Join us for the 2nd SSIG Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
+***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
 
 15 April 9:30 until 16 April 13:00
 
-SSIG2 has a focus on the [Open Web Search Project](https://openwebsearch.eu/) (OWS) / [Open Web Index](https://openwebsearch.eu/open-webindex/) (OWI) and official statistics. 
-
-- April 15th 10:00: Keynote Open Web Search project (remote): [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau)
-- April 16th 10:00: Guest speaker OWI: [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
-
 [Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md)
 
-How to get there, hotel suggestion and other information: [infomation note Statistics Netherlands](/meetings/SSIG2/20260210_Information_note_CBS.pdf)
+SSIG2 had a special focus on the [Open Web Search Project](https://openwebsearch.eu/) and official statistics, with a Keynote by [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau) [online slides] and a lecture on OWI (https://aaire.eu/slides/open-web-search/ssig-2026/)
+by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
 
+- Slides are available [here](meetings/SSIG2). Online slides can be reached from the annotated agenda. 
+ 
+- A meeting report will come later here.
+  
 
 \
 =======\
