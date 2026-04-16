@@ -6,8 +6,8 @@
 
 [Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md)
 
-SSIG2 had a special focus on the [Open Web Search Project](https://openwebsearch.eu/) and official statistics, with a Keynote by [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau) [online slides] and a lecture on OWI (https://aaire.eu/slides/open-web-search/ssig-2026/)
-by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
+SSIG2 had a special focus on the [Open Web Search Project](https://openwebsearch.eu/) and official statistics, with a Keynote by [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau) [online slides](https://aaire.eu/slides/open-web-search/ssig-2026/)
+and a lecture on OWI by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
 
 - Slides are available [here](meetings/SSIG2). Online slides can be reached from the annotated agenda. 
  
