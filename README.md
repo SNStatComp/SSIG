@@ -1,5 +1,7 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
+***Save-the-date: SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub*** 
+
 ***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
 
 [Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md)
