@@ -17,7 +17,7 @@ and a lecture on OWI by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/peop
 
 \
 =======\
-***Previous SSIG Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
+***Previous SSIG1 Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
 Presentations and [report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) available [here](/meetings/SSIG1)
 
 
