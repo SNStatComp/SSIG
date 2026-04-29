@@ -2,17 +2,18 @@
 
 ***Save-the-date: SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub*** 
 
-***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
+\
+=======\
+***Previous SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
 
-[Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md)
+[Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md) and 
+[meeting report](meetings/SSIG2/20260429_WEB-FOSS-NL-D4_1_SSIG2_Report.pdf)
 
 Slides are available [here](meetings/SSIG2)
 
 SSIG2 had a special focus on the [Open Web Search Project](https://openwebsearch.eu/) and official statistics, with a Keynote by [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau) [online slides](https://aaire.eu/slides/open-web-search/ssig-2026/)
 and a lecture on OWI by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
- 
-A meeting report will come later
-  
+
 
 \
 =======\
