@@ -1,15 +1,19 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***Save-the-date: SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub*** 
+***Save-the-date: SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
+
+
+*Save-the-date: SSIG4 Meeting 20-21 April 2027, Copenhagen, Statistics Denmark*
 
 \
+\
+****Previous SSIG Meetings****
+\
 =======\
-***Previous SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands*** 
-
-[Full Agenda](meetings/SSIG2/0_SSIG2_agenda.md) and 
-[meeting report](meetings/SSIG2/20260429_WEB-FOSS-NL-D4_1_SSIG2_Report.pdf)
-
-Slides are available [here](meetings/SSIG2)
+***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands***  
+[Agenda](meetings/SSIG2/0_SSIG2_agenda.md) |
+[meeting report](meetings/SSIG2/20260429_WEB-FOSS-NL-D4_1_SSIG2_Report.pdf) |
+[presentations](meetings/SSIG2)
 
 SSIG2 had a special focus on the [Open Web Search Project](https://openwebsearch.eu/) and official statistics, with a Keynote by [prof. Michael Granitzer](https://openwebsearch.eu/team/michael-granitzer/) (University of Passau) [online slides](https://aaire.eu/slides/open-web-search/ssig-2026/)
 and a lecture on OWI by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/people/vries-a-de) (Radboud University)
@@ -17,8 +21,9 @@ and a lecture on OWI by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/peop
 
 \
 =======\
-***Previous SSIG1 Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
-Presentations and [report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) available [here](/meetings/SSIG1)
+***SSIG1 Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
+[meeting report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) | [presentations](/meetings/SSIG1)
+
 
 
 =======
