@@ -1,9 +1,23 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***Save-the-date: SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
+***SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
+
+The third SSIG meeting will take place on 16–17 September at The Social Hub in Porto: https://maps.app.goo.gl/Xkdo29sjdzmKmCK59
+
+16 September: Full-day meeting, starting at 09:30\
+17 September: Half-day meeting, ending at approximately 13:00
+
+Registration:  https://ssig2.sciencesconf.org/registration?lang=en
+
+During registration, please also indicate whether you would like to give a presentation
 
 
+\
+\
+=======\
 *Save-the-date: SSIG4 Meeting 20-21 April 2027, Copenhagen, Statistics Denmark*
+
+=======
 
 \
 \
