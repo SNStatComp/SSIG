@@ -7,7 +7,7 @@ The third SSIG meeting will take place on 16–17 September at The Social Hub in
 16 September: Full-day meeting, starting at 09:30\
 17 September: Half-day meeting, morning
 
-[Full agenda](meetings/SSIG2/0_SSIG3_agenda.md)
+[Full agenda](meetings/SSIG3/0_SSIG3_agenda.md)
 
 
 \
