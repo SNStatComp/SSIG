@@ -41,15 +41,15 @@ TBD
 
 **17 September at 9:30**
 
-9:00 - 9:30 Registration open\
+9:00 - 9:30 Registration open
 
 9:30-10:15
-- Recent Achievements in Project Implementation at Statistics Poland
+- Recent Achievements in Project Implementation at Statistics Poland\
 *Jacek Maslankowski, Statistics Poland, PL*
 
 10:15 – 10:45 Coffee Break
 
-10:45 - 11:30 Presentation:
+10:45 - 11:30
 - Title tbd\
 *José Fragoso Santos, Instituto Superior Técnico, PT*
 
