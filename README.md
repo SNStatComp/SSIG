@@ -5,11 +5,9 @@
 The third SSIG meeting will take place on 16–17 September at The Social Hub in Porto: https://maps.app.goo.gl/Xkdo29sjdzmKmCK59
 
 16 September: Full-day meeting, starting at 09:30\
-17 September: Half-day meeting, ending at approximately 13:00
+17 September: Half-day meeting, morning
 
-Registration:  https://ssig2.sciencesconf.org/registration?lang=en
-
-During registration, please also indicate whether you would like to give a presentation
+[Full agenda](meetings/SSIG2/0_SSIG3_agenda.md)
 
 
 \
