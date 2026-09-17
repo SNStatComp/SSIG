@@ -1,5 +1,4 @@
 ## Agenda SSIG3 meeting
-version 20260909
 
 **16 September at 9:30**
 
@@ -35,9 +34,6 @@ version 20260909
 
 16:15-16:45 Discussion, closing first day (all)
 
-19:00 Social Dinner (own expenses)\
-TBD
-
 
 **17 September at 9:30**
 
@@ -50,7 +46,7 @@ TBD
 10:15 – 10:45 Coffee Break
 
 10:45 - 11:30
-- Title tbd\
+- WebCAP: Web Data Collection Via Automated Program Synthesis\
 *José Fragoso Santos, Instituto Superior Técnico, PT*
 
 11:30 - 12:00 Discussion, feedback, next meeting, closing
