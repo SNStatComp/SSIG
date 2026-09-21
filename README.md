@@ -2,12 +2,13 @@
 
 ***SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
 
-The third SSIG meeting will take place on 16–17 September at The Social Hub in Porto: https://maps.app.goo.gl/Xkdo29sjdzmKmCK59
+The third SSIG meeting took place on 16–17 September at The Social Hub in Porto: https://maps.app.goo.gl/Xkdo29sjdzmKmCK59
 
 16 September: Full-day meeting, starting at 09:30\
 17 September: Half-day meeting, morning
 
-[Full agenda](meetings/SSIG3/0_SSIG3_agenda.md)
+[Full agenda](meetings/SSIG3/0_SSIG3_agenda.md) |
+[presentations](meetings/SSIG3)
 
 
 \
