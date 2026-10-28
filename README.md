@@ -1,13 +1,5 @@
 <img src="20250424_logo WIN kolor_Statistical Scraping.svg" alt="Logo of SSIG" style="height:140px;background:white"/>
 
-***SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
-
-The third SSIG meeting took place on 16–17 September in Porto.
-
-[Full agenda](meetings/SSIG3/0_SSIG3_agenda.md) |
-[presentations](meetings/SSIG3)
-
-meeting report coming soon
 
 \
 \
@@ -19,9 +11,19 @@ meeting report coming soon
 \
 \
 ****Previous SSIG Meetings****
+
+
 \
 =======\
-***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands***  
+***SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
+The third SSIG meeting took place on 16–17 September in Porto.
+[Agenda](meetings/SSIG3/0_SSIG3_agenda.md) |
+[meeting report](meetings/SSIG3/D1.4_Report_on_SSIG3.pdf) |
+[presentations](meetings/SSIG3)
+\
+
+=======\
+***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands***
 [Agenda](meetings/SSIG2/0_SSIG2_agenda.md) |
 [meeting report](meetings/SSIG2/20260429_WEB-FOSS-NL-D4_1_SSIG2_Report.pdf) |
 [presentations](meetings/SSIG2)
@@ -32,7 +34,7 @@ and a lecture on OWI by [prof. dr. ir. Arjen de Vries](https://www.ru.nl/en/peop
 
 \
 =======\
-***SSIG1 Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***  
+***SSIG1 Meeting 16-17 Sep. 2025, Vienna, Statistics Austria***
 [meeting report](/meetings/SSIG1/D1_3_Report_on_SSIG1_final.pdf) | [presentations](/meetings/SSIG1)
 
 
@@ -54,7 +56,7 @@ For example:
 
 One of the advantages of statistical scraping is that if applied on the unit level, well-defined and proven survey methodology quality indicators can be calculated.
 We note here that bulk scraping certainly has its value in certain statistical use cases. Even stronger, in cases where the statistical population yet has to be discovered it may be the only option.
-However, we think that in cases where statistical scraping can be applied it may complement or in some cases replace bulk scraping methods.   
+However, we think that in cases where statistical scraping can be applied it may complement or in some cases replace bulk scraping methods.
 
 For a more detailed explanation we refer to the following papers/presentations/reports:
 
@@ -78,5 +80,5 @@ Questions, suggestions, additions: send an e-mail to `olav dot tenbosch at gmail
 
 ## License and citation
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
